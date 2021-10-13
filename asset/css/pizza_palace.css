@@ -1,0 +1,156 @@
+*{
+	box-sizing:border-box;
+	background-color:eddcd2;
+	
+	
+	}
+
+
+
+.cname{
+	background-color:2a4228;
+	color:c81123;
+	height:220px;
+	text-align:center;
+	margin:center;
+	font-size:60px;
+	padding-top:60px;
+	font-weight:bold;
+	background-size:220px;
+	border-radius:15px;
+	font-family:'Lobster', cursive;
+	
+	
+	
+	
+}
+
+.slogan{
+	color:white;
+	font-size:18px;
+	text-align:center;
+	padding-top:10px;
+	font-family: 'Monoton', cursive;
+	background-color:2a4228;
+	
+	
+}
+
+.menu{
+	
+	font-size:20px;
+	padding-left:60px;
+	font-family:'Lobster', cursive;
+	color:2a4228;
+	/* background-color:bdb2ff; */
+	
+	
+}
+
+a:hover{ background-color:#FFBC00;}
+.anchor{color:2a4228;
+		text-decoration:none;	
+		
+}
+
+.tagline{
+	border-radius:0px 0px 15px 15px; 
+	font-size:20px;
+	text-align:center;
+	font-family:'Monoton', cursive;
+	color:c81123;
+	background-color:yellow;
+	font-weight:bold;
+}
+.banner{
+	padding-top:20px;
+	
+}
+
+.info{	
+	padding-top:10px;
+	text-align:center;
+	color:2a4228;
+	font-family: 'Pacifico', cursive;
+	font-size:15px;
+	font-weight:bold;
+	
+}
+.footer{
+	text-align:center;
+	color:2a4228;
+	
+}
+.cond{
+	
+	border-color:red;
+	font-weight:bold;
+	border-radius:15px;
+	height:250px;
+	background-color:fdf0d5;
+	margin-bottom:10px;
+	transition:transform;
+	transition-duration:2s;
+	
+	
+	
+}
+.cond:hover{transform:scale(1.5);}
+.h3{
+	text-align:center;
+	color:2a4228;
+	font-size:20px;
+	font-family:'Staatliches',cursive;
+	background-color:c1121f;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.terms{
+	color:2a4228;
+	text-align:center;
+	font-family:'Staatliches',cursive;
+	font-weight:bold;
+	font-size:20px;
+	background-color:fdf0d5;
+	border-radius:10px;
+	margin-top:15px;
+	margin-bottom:15px;
+	
+}
+.terms_par{
+	font-size:12px;
+	font-family:'Staatliches',cursive;
+	color:2a4228;
+	text-align:center;
+	padding:10px;
+	
+}
+
+.menuitem{margin-top:10px;}
+
+.about{
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius:10px;
+	text-align:center;
+	
+}    
+ 
+.h1{text-align:center; 
+font-family:'Staatliches',cursive;
+color:2a4228;
+background-color:bdb2ff;
+text-transform:uppercase;
+border-radius:15px;
+} 
+
+.address{
+	padding-bottom:15px;
+	height:350px;
+	font-size:22px;
+	border-style:solid;
+	}
+	
+.footer{font-size:20px;}
+
+
